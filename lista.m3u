@@ -43,8 +43,6 @@ acestream://4955867fad3bc92e5b4c36045699fc277800fb18
 # --- DAZN ---
 #EXTINF:-1,DAZN 1 (Opción 1)
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1,DAZN 1 (Opción 2)
-acestream://691739972eb3468cf16b25e84dafdeaa40dead6d
 
 #EXTINF:-1,DAZN 2 (Opción 1)
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
